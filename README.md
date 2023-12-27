@@ -1,5 +1,6 @@
 # ProCode Software
-Hi! I'm a JavaScript app developer and a Figma designer who codes as a hobby.
+##### Hi! I'm a JavaScript app developer and a Figma designer who codes as a hobby.
+Interests: Programming, Technology, UI Design, Roblox, Aviation
 
 ## Projects
 ### [BiblePuzzle](https://procode-software.github.io/BiblePuzzle/)
@@ -13,9 +14,11 @@ A Rainmeter skin I made a few years ago that I put on [DeviantArt](https://www.d
 
 <br>
 
-This isn't all my works, I code as a hobby, and I have a ton of projects that aren't on GitHub.
+I have a lot more unpublished projects not listed here that I make for fun.
 
 ## Follow me
 [**YouTube** (@ProCodeSoftware)](https://www.youtube.com/@ProCode-Software) - My official YouTube channel where I make coding and tech videos and tips.
 
 [**Scratch** (@HinsdalePerson)](https://scratch.mit.edu/users/HinsdalePerson) - I used to do Scratch before switching to real coding a few years ago, but I still rarely make stuff on there.
+
+[**X/Twitter** (@ProCodeSoftware)](https://x.com/ProCodeSoftware) - Random stuff about technology, Roblox, and aviation
