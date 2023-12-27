@@ -1,5 +1,5 @@
 # ProCode Software
-##### Hi! I'm a JavaScript app developer and a Figma designer who codes as a hobby.
+#### Hi! I'm a JavaScript app developer and a Figma designer who codes as a hobby.
 Interests: Programming, Technology, UI Design, Roblox, Aviation
 
 ## Projects
