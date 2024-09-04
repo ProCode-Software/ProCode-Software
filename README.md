@@ -6,8 +6,8 @@ Interests: Programming, Technology, UI Design, Roblox, Aviation
 ### [BiblePuzzle](https://procode-software.github.io/BiblePuzzle/)
 A typing game on Bible verses created with JavaScript. It's just like Typing.com but using Bible verses.
 
-### [RandomGenerator](https://procode-software.github.io/RandomGenerator/)
-A typing game on Bible verses created with JavaScript. It's just like Typing.com but using Bible verses.
+### [ProIcons](https://github.com/ProCode-Software/proicons)
+A collection of 400+ modern and open source icons
 
 ### [LunalUI Widgets](https://github.com/ProCode-Software/LunalUIWidgets)
 A Rainmeter skin I made a few years ago that I put on [DeviantArt](https://www.deviantart.com/procodedev/art/LunalUI-Widgets-1-0-858823935).
