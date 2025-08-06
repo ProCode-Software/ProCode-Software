@@ -27,8 +27,10 @@
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&style=for-the-badge&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=fff)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)](#)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0062D3?logo=swift&logoColor=white&style=for-the-badge)](#)
-[![Bun](https://img.shields.io/badge/Bun-F472B6?logo=bun&style=for-the-badge&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](#)
+[![Bun](https://img.shields.io/badge/Bun-F9F1E1?logo=bun&style=for-the-badge&logoColor=black)](#)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&style=for-the-badge&logoColor=fff)](#)
 
 <!--#endregion-->
