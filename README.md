@@ -6,16 +6,8 @@
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&style=for-the-badge&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&style=for-the-badge&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=fff)](#)
-[![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?logo=gleam&style=for-the-badge&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&style=for-the-badge&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&style=for-the-badge&logoColor=white)](#)
-[![Luau](https://img.shields.io/badge/Luau-00A2FF.svg?logo=luau&style=for-the-badge&logoColor=white)](#)
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&style=for-the-badge&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=white)](#)
 [![Roblox](https://img.shields.io/badge/Roblox-335FFF?logo=Roblox&style=for-the-badge&logoColor=white)](#)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&style=for-the-badge&logoColor=white)](#)
@@ -24,9 +16,7 @@
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&style=for-the-badge&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&style=for-the-badge&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white)](#)
-[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&style=for-the-badge&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=fff)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)](#)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0062D3?logo=swift&logoColor=white&style=for-the-badge)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](#)
@@ -58,14 +48,20 @@
 _I have a lot more projects I make for fun, but I try to open-source most of my official projects._
 
 ## Programming Languages
-
-JavaScript/TypeScript (5 years) • Go • Luau/Lua • Swift • Bash
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&style=for-the-badge&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=fff)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&style=for-the-badge&logoColor=white)](#)
+[![Luau](https://img.shields.io/badge/Luau-00A2FF.svg?logo=luau&style=for-the-badge&logoColor=white)](#)
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&style=for-the-badge&logoColor=white)](#)
 
 **Also learned:** Python • Gleam • Ruby • Perl
 
 ## Web Frameworks
-
-[Svelte](https://svelte.dev) • [Vue](https://vuejs.org) • Vanilla JS
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&style=for-the-badge&logoColor=white)](https://svelte.dev)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](https://vuejs.org)
+[![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
 
 ---
 
