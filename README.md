@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-**he/him** | **🇺🇸 United States** | **🧑‍💻 Hobbyist developer (5 years)** | **🐧 Windows → Linux**
+**he/him** | **🇺🇸 United States** | **🧑‍💻 Hobbyist developer (5 years)** | **🐧 Windows → Linux (1.5 years)**
 
 <!--#region badges-->
 
@@ -29,25 +29,28 @@
 
 ## Interests
 
--   🌐 Web development
--   🎮 Roblox development
--   📐 UI design
--   🐵 3D modelling | Blender
--   🐧 Linux | Ubuntu
--   ✈️ Aviation | Airbus
+- 🌐 Web development
+- ⚙️ Programming language / compiler design
+- 📐 UI design
+- 🐵 3D modelling | Blender
+- 🐧 Linux | Ubuntu
+- ✈️ Aviation | Airbus
 
 ## Projects
 
--   **[👑 ProIcons](https://github.com/ProCode-Software/proicons)** - An icon library for the web
--   **[✝️ BiblePuzzle](https://github.com/ProCode-Software/BiblePuzzle)** - Bible typing game
--   **[🔨 Forge](https://github.com/ProCode-Software/Forge)** - Roblox UI framework
--   **[🗻 Frost Theme](https://github.com/ProCode-Software/vscode-themes)** - An arctic, bluish VSCode theme (more themes in this repo)
--   **[🪐 Jupyter-Slides](https://github.com/ProCode-Software/jupyter-slides)** - Jupyter Notebook-to-Presentation app
--   **[🖥️ LunalUI Widgets](https://github.com/ProCode-Software/LunalUIWidgets)** - [Rainmeter](https://www.rainmeter.net/) skin I made 5 years ago
+- **[🐨 Klar](https://github.com/ProCode-Software/klar)** - An progressive programming language that will compile to JavaScript
+- **[👑 ProIcons](https://github.com/ProCode-Software/proicons)** - An icon library for the web
+- **[✝️ BiblePuzzle](https://github.com/ProCode-Software/BiblePuzzle)** - Bible typing game
+- **[🔨 Forge](https://github.com/ProCode-Software/Forge)** - Roblox UI framework
+- **[🗻 Frost Theme](https://github.com/ProCode-Software/vscode-themes)** - An arctic, bluish VSCode theme (more themes in this repo)
+- **[🪐 Jupyter-Slides](https://github.com/ProCode-Software/jupyter-slides)** - Jupyter Notebook-to-Presentation app
+- **[🗃️ ProcoSort](https://github.com/ProCode-Software/procosort)** - My fast topological sort algorithm (benchmarks performed in [TopoBench](https://github.com/ProCode-Software/TopoBench))
+- **[🖥️ LunalUI Widgets](https://github.com/ProCode-Software/LunalUIWidgets)** - [Rainmeter](https://www.rainmeter.net/) skin I made 5 years ago
 
 _I have a lot more projects I make for fun, but I try to open-source most of my official projects._
 
 ## Programming Languages
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&style=for-the-badge&logoColor=white)](#)
@@ -59,9 +62,10 @@ _I have a lot more projects I make for fun, but I try to open-source most of my 
 **Also learned:** Python • Gleam • Ruby • Perl
 
 ## Web Frameworks
-[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&style=for-the-badge&logoColor=white)](https://svelte.dev)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](https://vuejs.org)
-[![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
+
+1. [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&style=for-the-badge&logoColor=white)](https://svelte.dev)
+2. [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](https://vuejs.org)
+3. [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
 
 ---
 
