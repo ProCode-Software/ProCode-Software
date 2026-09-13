@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-**he/him** | **🇺🇸 United States** | **🧑‍💻 Hobbyist developer (5 years)** | **🐧 Windows → Linux (1.5 years)**
+**he/him** | **🇺🇸 United States** | **🧑‍💻 Hobbyist developer (6 years)** | **🐧 Windows → Linux (1.5 years)**
 
 <!--#region badges-->
 
