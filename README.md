@@ -40,6 +40,7 @@
 
 - **[🐨 Klar](https://github.com/ProCode-Software/klar)** - An progressive programming language that will compile to JavaScript
 - **[👑 ProIcons](https://github.com/ProCode-Software/proicons)** - An icon library for the web
+- **[🧩 VSXTools](https://github.com/ProCode-Software/vsxtools)** - A CLI providing utilities for VSCode extension development
 - **[✝️ BiblePuzzle](https://github.com/ProCode-Software/BiblePuzzle)** - Bible typing game
 - **[🔨 Forge](https://github.com/ProCode-Software/Forge)** - Roblox UI framework
 - **[🗻 Frost Theme](https://github.com/ProCode-Software/vscode-themes)** - An arctic, bluish VSCode theme (more themes in this repo)
